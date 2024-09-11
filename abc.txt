@@ -1,1 +1,2 @@
 It is raining at 9:15 AM in California. -a
+It is windy at 9:20 AM in New York. -b
